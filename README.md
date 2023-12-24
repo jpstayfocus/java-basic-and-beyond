@@ -14,3 +14,8 @@
 - Games (such as [Minecraft](https://en.wikipedia.org/wiki/Minecraft))
 - Cloud based applications
 - Web applications
+
+
+## Java Usages
+- Build enterprise application
+- [learn more](https://www.freecodecamp.org/news/what-is-java-used-for/)
