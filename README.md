@@ -44,6 +44,7 @@
 
 ## 🚩 Getting Started 
 
+
 <img width="1680" alt="Screenshot 2023-12-24 at 12 13 46 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/f74197a2-bf79-4e8a-9c1d-44565be4b009">
 
 <img width="1680" alt="Screenshot 2023-12-24 at 12 20 22 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/469e2536-5b4a-4adc-a5b9-30f9805a18e3">
@@ -51,6 +52,8 @@
 <img width="1680" alt="Screenshot 2023-12-24 at 12 21 22 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/2c2a75a6-86a7-4a46-a79c-e5acdb985919">
 
 <img width="1680" alt="Screenshot 2023-12-24 at 12 22 04 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/a0b4031f-4ae1-48e0-859a-6893bc0a86ca">
+
+<img width="1680" alt="Screenshot 2023-12-24 at 12 46 36 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/d11f1cd8-cd90-4a16-b3c9-43aa0caf101d">
 
 
 
