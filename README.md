@@ -34,7 +34,10 @@
 - The process of verifying and enforcing the constraints of types - type checking - may occur either at compile time (static check) or at a run-time (dynamic check)
 - Static type checking is when types are checked during compilation, before the program is run. This means that any type errors will be caught early on and can be fixed before the program is deployed. Dynamic type checking, on the other hand, happens at runtime. This means that type errors can go undetected until the program is actually being used.
 
-## 🚩 Environement setup 
+## 🚩 Environement setup (Intellij IDEA)
+* [Jetbrains]([https://www.jetbrains.com/](https://www.jetbrains.com/idea/)https://www.jetbrains.com/idea/)
+* 
+
 
 
 
