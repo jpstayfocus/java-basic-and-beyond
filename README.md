@@ -35,8 +35,14 @@
 - Static type checking is when types are checked during compilation, before the program is run. This means that any type errors will be caught early on and can be fixed before the program is deployed. Dynamic type checking, on the other hand, happens at runtime. This means that type errors can go undetected until the program is actually being used.
 
 ## 🚩 Environement setup (Intellij IDEA)
-* [Jetbrains](https://www.jetbrains.com/](https://www.jetbrains.com/idea/)https://www.jetbrains.com/idea/)
-* 
+* Go to the offical website of [Jetbrains](https://www.jetbrains.com/](https://www.jetbrains.com/idea/)https://www.jetbrains.com/idea/)
+* If you are a student, you can get InteliJ IDEA free.
+* To download Intellij IDEA, go to developer tools > Pluging and services > Toolbox App
+* Then open toolbox and download IntelliJ IDEA
+
+<img width="1232" alt="Screenshot 2023-12-24 at 12 00 51 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/c9572567-8195-42b9-8f23-e2f60a0d56f2">
+
+
 
 
 
