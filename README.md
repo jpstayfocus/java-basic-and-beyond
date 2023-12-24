@@ -53,7 +53,11 @@
 
 <img width="1680" alt="Screenshot 2023-12-24 at 12 22 04 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/a0b4031f-4ae1-48e0-859a-6893bc0a86ca">
 
+### First Java Program
+
 <img width="1680" alt="Screenshot 2023-12-24 at 12 46 36 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/d11f1cd8-cd90-4a16-b3c9-43aa0caf101d">
+
+### Compiling and Running via Terminal
 
 
 
