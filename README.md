@@ -59,6 +59,10 @@
 
 ### Compiling and Running via Terminal
 
+<img width="1680" alt="Screenshot 2023-12-24 at 12 54 33 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/12a04fda-ecba-45ec-947f-70876e3c4b36">
+
+<img width="1680" alt="Screenshot 2023-12-24 at 12 56 29 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/cb289020-3ef9-4ac0-9ed3-11d60a35ef68">
+
 
 
 
