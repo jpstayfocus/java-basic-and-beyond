@@ -81,7 +81,7 @@ The example codes for the following subjects can be found [here](https://github.
 - [Reverse keywords](https://www.w3schools.com/java/java_ref_keywords.asp)
 - Comments
     - two ways to add comments
-    - use "//" (single ligne comments) or "/*" and "*/" (known as Multi Line comments)
+    - use "//" (single ligne comments) or "/*" and "*/" (Multi Line comments)
     - Comments has no effect when you run a code.
 - Variables
 - Primitives Data Types Differences
