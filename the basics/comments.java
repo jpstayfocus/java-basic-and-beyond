@@ -1,5 +1,5 @@
 // two ways to add comments
-// use "//" (single ligne comments) or "/*" and "*/" (known as Multi Line comments)
+// use "//" (single ligne comments) or "/*" and "*/" (Multi Line comments)
 // Comments has no effect when you run a code.
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
