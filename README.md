@@ -74,6 +74,28 @@
 
 <img width="1680" alt="Screenshot 2023-12-25 at 5 32 20 PM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/e40178e2-64ff-42ea-ad07-ba114e232fdf">
 
+## 👉 The basics
+
+The example codes for the following subjects can be found [here]()
+
+- Reverse keywords
+- Comments
+- Variables
+- Primitives Data Types Differences
+- Numeric Literals with underscore
+- Arithmetic operarors
+- Increment and Decrement Operators
+- Comparison Operators
+- Short and re-assignment
+- Namimng Variables
+- Strings
+- Reference types and objects
+- Reference types and objects differences
+- Pass py Value differences
+- Arrays
+- O and null Values for arrays
+
+
 
 
 
