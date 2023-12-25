@@ -76,7 +76,7 @@
 
 ## 👉 The basics
 
-The example codes for the following subjects can be found [here]()
+The example codes for the following subjects can be found [here](https://github.com/jpstayfocus/java-basic-and-beyond/tree/main/the%20basics)
 
 - [Reverse keywords](https://www.w3schools.com/java/java_ref_keywords.asp)
 - Comments
