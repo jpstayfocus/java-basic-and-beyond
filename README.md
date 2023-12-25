@@ -84,6 +84,7 @@ The example codes for the following subjects can be found [here](https://github.
     - use "//" (single ligne comments) or "/*" and "*/" (Multi Line comments)
     - Comments has no effect when you run a code.
 - Variables
+      - A varibles allows us to store a value into a placeholer which we can use it later 
 - Primitives Data Types Differences
 - Numeric Literals with underscore
 - Arithmetic operarors
