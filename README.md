@@ -79,13 +79,28 @@
 The example codes for the following subjects can be found [here](https://github.com/jpstayfocus/java-basic-and-beyond/tree/main/the%20basics)
 
 - [Reverse keywords](https://www.w3schools.com/java/java_ref_keywords.asp)
+  
 - Comments
-    - two ways to add comments
-    - use "//" (single ligne comments) or "/*" and "*/" (Multi Line comments)
-    - Comments has no effect when you run a code.
+      - two ways to add comments
+      - use "//" (single ligne comments) or "/*" and "*/" (Multi Line comments)
+      - Comments has no effect when you run a code
+  
 - Variables
-      - A varibles allows us to store a value into a placeholer which we can use it later 
-- Primitives Data Types Differences
+      - A varibles allows us to store a value into a placeholer which we can use it later
+   
+- [Primitives Data Types Differences](https://www.w3schools.com/java/java_data_types.asp)
+      - Primitives types are used to store simple values. For instance, whole numbers, decimal values and characters.
+          - boulean
+          - byte
+          - short
+          - char
+          - int
+          - long
+          - float (store decimal value, but bigger number and take more space in memory)
+          - double
+
+  <img width="1119" alt="Screenshot 2023-12-25 at 6 15 25 PM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/a4b8eca5-b861-4eba-901b-269d8bf8c9eb">
+  
 - Numeric Literals with underscore
 - Arithmetic operarors
 - Increment and Decrement Operators
