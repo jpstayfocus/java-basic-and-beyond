@@ -63,6 +63,17 @@
 
 <img width="1680" alt="Screenshot 2023-12-24 at 12 56 29 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/cb289020-3ef9-4ac0-9ed3-11d60a35ef68">
 
+### View bytecode
+
+- read more on bytecode [here](https://www.techtarget.com/whatis/definition/bytecode)
+
+<img width="1680" alt="Screenshot 2023-12-25 at 5 32 20 PM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/e40178e2-64ff-42ea-ad07-ba114e232fdf">
+
+### Public static void main
+
+<img width="1680" alt="Screenshot 2023-12-25 at 5 30 00 PM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/2c72f44f-492e-4ef1-8ad9-51ba606fa339">
+
+
 
 
 
