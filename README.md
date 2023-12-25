@@ -78,7 +78,7 @@
 
 The example codes for the following subjects can be found [here]()
 
-- Reverse keywords
+- [Reverse keywords](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html](https://www.w3schools.com/java/java_ref_keywords.asp)
 - Comments
 - Variables
 - Primitives Data Types Differences
