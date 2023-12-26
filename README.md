@@ -113,7 +113,8 @@ The example codes for the following subjects can be found [here](https://github.
 - Increment and Decrement Operators
 - Comparison Operators
 - Short and re-assignment
-- Namimng Variables
+- [Namimng Variables](https://www.w3schools.com/java/java_variables.asp)
+    - CamelCase
 - Strings
 - Reference types and objects
 - Reference types and objects differences
