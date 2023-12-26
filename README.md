@@ -118,7 +118,13 @@ The example codes for the following subjects can be found [here](https://github.
 - Strings
     - [String API Documentation](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
 - Reference types and objects
+
+<img width="1000" alt="Screenshot 2023-12-25 at 9 56 20 PM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/23cda797-ea68-4819-99b0-1ea664480700">
+
 - Reference types and objects differences
+
+![IMG_0362](https://github.com/jpstayfocus/full-stack/assets/110998062/26a46b94-25ec-42ee-ab09-0593615b6de4)
+
 - Pass py Value differences
 - Arrays
 - O and null Values for arrays
