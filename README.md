@@ -116,6 +116,7 @@ The example codes for the following subjects can be found [here](https://github.
 - [Naming Variables](https://www.w3schools.com/java/java_variables.asp)
     - CamelCase
 - Strings
+    - [String API Documentation](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
 - Reference types and objects
 - Reference types and objects differences
 - Pass py Value differences
