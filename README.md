@@ -149,6 +149,7 @@ loops - constraint that allows us to repeat a block of codes
 
 ## 👉 'if' Stateements
 code snipet can be found [here]
+if statement allows us to execute a block of codes based on a condition
 
 - if statement
 - if statement with conditions
