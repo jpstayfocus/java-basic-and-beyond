@@ -194,6 +194,8 @@ read more on packages [here](https://www.geeksforgeeks.org/packages-in-java/)
 
 ## 👉 Access modifiers
 
+All you need to know can be found [here](https://www.w3schools.com/java/java_modifiers.asp)
+
 
 
 
