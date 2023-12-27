@@ -164,6 +164,8 @@ if statement allows us to execute a block of codes based on a condition
     - a recommended course for [discrete math](https://www.coursera.org/specializations/discrete-mathematics)
 
 <img width="1058" alt="Screenshot 2023-12-27 at 10 14 24 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/2c930d13-9aaf-4776-82cd-0f49451ea02a">
+
+- Switch
   
 
 
