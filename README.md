@@ -147,6 +147,15 @@ loops - constraint that allows us to repeat a block of codes
 - While loop
 - Do while
 
+## 👉 'if' Stateements
+code snipet can be found [here]
+
+- if statement
+- if statement with conditions
+- Else if
+- AND logical operator
+- OR logical operator
+
 
 
 
