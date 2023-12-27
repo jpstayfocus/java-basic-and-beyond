@@ -12,7 +12,7 @@ public class Main {
            System.out.println("Failed");
        } */
 
-       switch (grade){
+       switch (grade){ // // data types that can be used with switch are: byte, short, int, char, enums, String
            case 'A':
                System.out.println("Excellent");
                break;
