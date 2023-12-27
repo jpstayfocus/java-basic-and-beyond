@@ -141,6 +141,11 @@ code snipet can be found [here](https://github.com/jpstayfocus/java-basic-and-be
 loops - constraint that allows us to repeat a block of codes
 
 - For loops
+- Loops and arrays
+- Enchanced For loop
+- For i vs Enchanced For loop
+- While loop
+- Do while
 
 
 
