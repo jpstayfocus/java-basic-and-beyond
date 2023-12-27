@@ -129,7 +129,7 @@ The example codes for the following subjects can be found [here](https://github.
     - [pass by value](https://www.cs.virginia.edu/~jh2jf/courses/cs2110/java-pass-by-value.html)
       
 - Arrays
-    - data structure that allows to store multiple values in one variable
+    - [data structure that allows to store multiple values in one variable](https://www.w3schools.com/java/java_arrays.asp)
       
 - O and null Values for arrays
 
