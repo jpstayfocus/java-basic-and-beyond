@@ -148,7 +148,8 @@ loops - constraint that allows us to repeat a block of codes
 - Do while
 
 ## 👉 'if' Stateements
-code snipet can be found [here]
+code snipet can be found [here](https://github.com/jpstayfocus/java-basic-and-beyond/tree/main/if-statement)
+
 if statement allows us to execute a block of codes based on a condition
 
 - if statement
