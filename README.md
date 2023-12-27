@@ -142,8 +142,8 @@ loops - constraint that allows us to repeat a block of codes
 
 - For loops
 - Loops and arrays
-- Enchanced For loop
-- For i vs Enchanced For loop
+- Enhanced For loop
+- For i vs Enhanced For loop
 - While loop
 - Do while
 
