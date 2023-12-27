@@ -125,7 +125,9 @@ The example codes for the following subjects can be found [here](https://github.
 
 ![IMG_0362](https://github.com/jpstayfocus/full-stack/assets/110998062/26a46b94-25ec-42ee-ab09-0593615b6de4)
 
-- Pass py Value differences
+- Pass by Value differences
+    - [pass by value](https://www.cs.virginia.edu/~jh2jf/courses/cs2110/java-pass-by-value.html)
+      
 - Arrays
 - O and null Values for arrays
 
