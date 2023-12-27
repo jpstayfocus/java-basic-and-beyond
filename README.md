@@ -160,7 +160,7 @@ if statement allows us to execute a block of codes based on a condition
 - OR logical operator
   
 - [logical operators recap](https://www.iitk.ac.in/esc101/05Aug/tutorial/java/nutsandbolts/opsummary.html)
-    - a review of your discrete math - logic
+    - a review of your discrete math - logic can help
 
 <img width="1058" alt="Screenshot 2023-12-27 at 10 14 24 AM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/2c930d13-9aaf-4776-82cd-0f49451ea02a">
   
