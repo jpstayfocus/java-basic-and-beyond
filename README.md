@@ -171,6 +171,8 @@ if statement allows us to execute a block of codes based on a condition
 
 ## 👉 Packages
 
+read more on packages [here](https://www.geeksforgeeks.org/packages-in-java/)
+
 - How to find the location of your package
 
 <img width="1680" alt="Screenshot 2023-12-27 at 2 09 01 PM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/27fc17e8-f991-42bb-b58f-6a4cbe0b8deb">
@@ -181,6 +183,8 @@ if statement allows us to execute a block of codes based on a condition
 2. Have a root package
 
 <img width="1106" alt="Screenshot 2023-12-27 at 2 14 41 PM" src="https://github.com/jpstayfocus/full-stack/assets/110998062/44402966-8fb8-4c0b-baea-db25956bcb89">
+
+
 
 
 
