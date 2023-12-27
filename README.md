@@ -137,7 +137,8 @@ The example codes for the following subjects can be found [here](https://github.
 
 ## 👉 Loops
 
-code snipet can be found here
+code snipet can be found [here](https://github.com/jpstayfocus/java-basic-and-beyond/new/main)
+loops - constraint that allows us to repeat a block of codes
 
 - For loops
 
