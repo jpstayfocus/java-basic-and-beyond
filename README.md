@@ -6,7 +6,7 @@
 - object oriented programming lannguage
 - create by James Gosling in 1995
 - similar to c++ but easier
-- 3 billion devices ru  Java programs
+- 3 billion devices run  Java programs
 - very popular
 
 ### What can you build with Java
@@ -195,6 +195,22 @@ read more on packages [here](https://www.geeksforgeeks.org/packages-in-java/)
 ## 👉 Access modifiers
 
 All you need to know can be found [here](https://www.w3schools.com/java/java_modifiers.asp)
+
+
+## 👉 Methods
+
+    When building method:
+    - Access modifiers
+    - Optional static
+    - Return type
+    - Name
+    - Optional parameters
+    - Method Body
+    - Optional return value
+    
+    public static void main(String[] args) {
+
+    }
 
 
 
