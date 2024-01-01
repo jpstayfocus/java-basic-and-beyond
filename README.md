@@ -207,11 +207,8 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
     - Optional parameters
     - Method Body
     - Optional return value
-    
-    public static void main(String[] args) {
 
-    }
-
+    Exammple: public static void main(String[] args) { body }
 
 
 
