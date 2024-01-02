@@ -222,8 +222,8 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
 
 - [Type inferance with var](https://www.tutorialspoint.com/java10/java10_local_variable_type_inference.htm)
     - It allows to define a variable using var and without specifying the type of it
-    - ```
-      public class Main {
+    ```
+    public class Main {
     // private var brand = "jpstayfocus" (var cant work)
     public static void main(String[] args) {
         // Type inference with var keyword (works for every datatype,
@@ -243,8 +243,8 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
         var isAdult = false;
         var balance = 1_000_000.33;
     }
-
-} ```
+}
+```
   
   
 
