@@ -213,6 +213,13 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
   - Naming convention for methods
       - Methods should be verbs, in mixed case with the first letter lowercase, with the first letter of each internal word capitalized
       - e.g: run(); runFast(); getBackground();
+   
+## 👉 Beyond the basics
+
+- Understand public static void main
+
+  <img width="1680" alt="Screenshot 2024-01-02 at 8 40 01 AM" src="https://github.com/jpstayfocus/java-basic-and-beyond/assets/110998062/aca03b20-733a-4fc5-a877-ee441ca44b03">
+  
 
 
 
