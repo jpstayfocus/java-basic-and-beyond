@@ -249,3 +249,5 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
 - Continue keyword
 - Final keyword
     - allows to create constants, prevent inheritance, and method overriding
+
+- Implicit and Explicit type casting
