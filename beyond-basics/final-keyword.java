@@ -1,6 +1,6 @@
 public class Main {
 
-    // create constant
+    // define constant
     // public static final String NAME = "Alex";
 
     public static void main(String[] args) {
