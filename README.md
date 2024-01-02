@@ -243,11 +243,6 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
         var isAdult = false;
         var balance = 1_000_000.33;
     }
-    }```
+    }
 
-
-
-
-
-
-
+-
