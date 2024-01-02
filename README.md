@@ -245,4 +245,7 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
     }
     }
 
--
+- Break keyword and loops
+- Continue keyword
+- Final keyword
+    - allows to create constants, prevent inheritance, and method overriding
