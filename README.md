@@ -219,6 +219,30 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
 - Understand public static void main
 
   <img width="1680" alt="Screenshot 2024-01-02 at 8 40 01 AM" src="https://github.com/jpstayfocus/java-basic-and-beyond/assets/110998062/aca03b20-733a-4fc5-a877-ee441ca44b03">
+
+- [Type inferance with var](https://www.tutorialspoint.com/java10/java10_local_variable_type_inference.htm)
+    - It allows to define a variable using var and without specifying the type of it
+  public class Main {
+    // private var brand = "jpstayfocus" (var cant work)
+    public static void main(String[] args) {
+        // Type inference with var keyword (works for every datatype,
+        // but can be used only for local variables)
+
+        /*
+        String name = "Jamila";
+        String[] names = {"Jamila", "Joseph"};
+        int age = 22;
+        boolean isAdult = false;
+        double balance = 1_000_000.33;
+        */
+
+        var name = "Jamila";
+        var names = new String[]{"Jamila", "Joseph"};
+        var age = 22;
+        var isAdult = false;
+        var balance = 1_000_000.33;
+    }
+}
   
 
 
