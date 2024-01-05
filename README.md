@@ -251,3 +251,12 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
     - allows to create constants, prevent inheritance, and method overriding
 
 - Implicit and Explicit type casting
+
+## 👉 Strings
+- Working with strings
+- [How strings are stored in memory](https://www.scaler.com/topics/java/string-pool-in-java/)
+- Strings are immutable
+- String lateral vs String Onject
+- Comparing String with ==
+- Comparing String with .equals
+- Useful String Static Methods
