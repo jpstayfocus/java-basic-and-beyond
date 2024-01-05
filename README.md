@@ -256,7 +256,7 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
 - Working with strings
 - [How strings are stored in memory](https://www.scaler.com/topics/java/string-pool-in-java/)
 - [Strings are immutable](https://www.w3schools.blog/immutable-final-string-java)
-- String lateral vs String Onject
+- [String lateral vs String Onject](https://www.java67.com/2014/08/difference-between-string-literal-and-new-String-object-Java.html)
 - Comparing String with ==
 - Comparing String with .equals
 - Useful String Static Methods
