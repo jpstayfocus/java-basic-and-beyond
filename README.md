@@ -270,3 +270,21 @@ Code on Dates can be found [here](https://github.com/jpstayfocus/java-basic-and-
 - Zoneelds
 - Other Dates Classes
     - [Difference between insant and localdateTime](https://stackoverflow.com/questions/32437550/whats-the-difference-between-instant-and-localdatetime#:~:text=Instant%20represents%20a%20moment%2C%20a,time%20zones%20around%20the%20globe.)
+
+
+## 👉 Big decimal
+
+- Problem with double
+  ```
+  public class Main {
+
+    public static void main(String[] args) {
+        // problem with double
+
+        double number1 =  0.02;
+        double number2 =  0.03;
+        double result = number2 - number1;
+        System.out.println(result); // precision: 0.009999999999999998
+        
+    }}
+```
