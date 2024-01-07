@@ -278,3 +278,7 @@ Code on Dates can be found [here](https://github.com/jpstayfocus/java-basic-and-
 - Big decimal
 - Big decimal methods
 
+## Exception in java
+
+Exception in java explained [here](https://www.geeksforgeeks.org/exceptions-in-java/)
+
