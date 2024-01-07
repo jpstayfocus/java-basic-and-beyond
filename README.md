@@ -260,3 +260,11 @@ All you need to know can be found [here](https://www.w3schools.com/java/java_mod
 - Comparing String with ==
 - Comparing String with .equals
 - Useful String Static Methods
+
+## 👉 Dates
+
+- Local Date Time
+- Local Date and Local Time
+- Creating specific Dates
+- Zoneelds
+- Other Dates Classes
