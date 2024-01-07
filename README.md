@@ -1,5 +1,7 @@
 # Java Programming
 
+The online [doc](https://docs.oracle.com/en/java/javase/17/docs/api/)
+
 ## 👉 Introduction
 
 ### What is Java?
@@ -283,7 +285,7 @@ Code on Dates can be found [here](https://github.com/jpstayfocus/java-basic-and-
 
 - Exception in java explained [here](https://www.geeksforgeeks.org/exceptions-in-java/)
 
-- Exception Hierarchy
+- [Exception Hierarchy](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html)
 
 
 <img width="1680" alt="Screenshot 2024-01-07 at 11 30 33 AM" src="https://github.com/jpstayfocus/java-basic-and-beyond/assets/110998062/3818d393-36fd-4955-9afb-cdc8ec320fb5">
