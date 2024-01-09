@@ -290,5 +290,12 @@ Code on Dates can be found [here](https://github.com/jpstayfocus/java-basic-and-
 
 <img width="1680" alt="Screenshot 2024-01-07 at 11 30 33 AM" src="https://github.com/jpstayfocus/java-basic-and-beyond/assets/110998062/3818d393-36fd-4955-9afb-cdc8ec320fb5">
 
+## Working with files
+
+- Creating Files
+- Writing to Files
+- Reading from files
+- Try with Ressources
+
 
 
