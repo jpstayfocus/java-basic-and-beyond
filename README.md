@@ -1,6 +1,7 @@
 # Java Programming
 
 The online [doc](https://docs.oracle.com/en/java/javase/17/docs/api/)
+A good textbook: Introduction to Java Programming and Data Structures, Author Y. Daniel Liang 
 
 ## 👉 Introduction
 
